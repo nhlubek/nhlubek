@@ -8,5 +8,6 @@ I have experience working with:
 - Registry data
 - Environmental data
 
-📂 Feel free to explore my repositories to see what I’m working on. \n
+📂 Feel free to explore my repositories to see what I’m working on.
+
 💬 Always happy to connect, please reach out if you'd like to collaborate or just chat!
