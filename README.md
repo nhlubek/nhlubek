@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there
 
-I'm Niklas, a health data analyst with a background in epidemiological research and strong interest in .... I enjoy working with large datasets, building statistical models, and developing reproducible code to tackle complex problems.
+I'm Niklas, a quantitative scientist with a background in epidemiology, social policy, and psychological research.
+I’m passionate about using data-driven approaches to tackle real-world problems across diverse fields.
 
-I haven’t been super active on GitHub yet, but I’m planning to share more projects here in the coming months. This space will grow into a collection of code and experiments that reflect my experience and interests in data, modeling, and problem-solving.
+I have experience working with:
+- Large-scale datasets
+- Registry data
+- Environmental data
+
+📂 Feel free to explore my repositories to see what I’m working on.
+💬 Always happy to connect—reach out if you'd like to collaborate or just chat!
